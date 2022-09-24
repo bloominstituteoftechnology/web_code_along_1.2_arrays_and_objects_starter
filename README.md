@@ -1,7 +1,7 @@
-# Code-Along Project 1.1 - Introduction to JavaScript
+# Code-Along Project 1.2 - Arrays and Objects
 
 ## About the Project
-This project is a User Data Management App over the course of the Unit 1 Code-Alongs, we will implement new features and styles to the project. In this Code-Along, we will implement a function to check the validity of data being sorted, and then create a container function for the sort functionality.
+This project is a User Data Management App over the course of the Unit 1 Code-Alongs, we will implement new features and styles to the project. In this Code-Along, we will implement functions to clean the messy data up.
 
 ## Setup
 1. Clone the project
