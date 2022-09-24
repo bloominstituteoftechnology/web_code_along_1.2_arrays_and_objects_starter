@@ -1,0 +1,46 @@
+.user-card {
+    width: 40%;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+    background-color: lightslategray;
+    border: 3px solid black;
+    overflow: unset;
+}
+
+.user-card .fields {
+    width: 100%;
+    padding: 5px 5%;
+    font-size: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.user-card .name {
+    padding: 2.5%;
+    font-size: 2.5rem;
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+
+.user-card .about {
+    padding: 2.5%;
+    font-size: 2rem;
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+
+.user-card .fields p {
+    padding: 2%;
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+
+#no-border {
+    border-bottom: none;
+}
